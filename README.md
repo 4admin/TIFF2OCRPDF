@@ -2,6 +2,8 @@
 Comando bash que converte todos os arquivos TIF de um diretório para PDF ocerizados, isto é, com a possibilidade de pesquisa de texto.
 Configurado para execução paralela. Ideal para grande quantidade de arquivos.
 
+Pode ser que apenas a instalação na minha máquina vi #apt-get install ocrmypdf já resolva todas as dependências mas devo dizer que previamente eu já havia preparado a minha máquina com as etapas a seguir:
+
 Precisei instalar o Tesseract OCR w64 v5.0. (Binários em https://github.com/tesseract-ocr/tessdoc) A linha 3 do notebook aponta para o executável da aplicação instalada no PC.
 
 A fim de que os caracteres do português sejam corretamente reconhecidos, baixei os arquivos do TessData:
