@@ -14,4 +14,4 @@ Acho que não precisa de tudo (uns 3GB), mas não quis arriscar.
 __________________________________________________________________
 
 Pra fins de marketing ou mesmo especificação de volume de trabalho, saber a quantidade de páginas em PDF pode ser interessante.
-Por isso deixei um comando em ##QtdePagPDF.sh## que apresenta a soma da quantidade de páginas de todos os PDFs de um diretório e seus respectivos subdiretórios. O comando pdfinfo é instalado junto com o poppler-utils.
+Por isso deixei um comando em QtdePagPDF.sh que apresenta a soma da quantidade de páginas de todos os PDFs de um diretório e seus respectivos subdiretórios. O comando pdfinfo é instalado junto com o poppler-utils.
